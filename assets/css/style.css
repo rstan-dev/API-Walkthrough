@@ -2,25 +2,25 @@
     font-family: "Menlo";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/Menlo-Regular.woff") format("woff");
+    src: url("../fonts/Menlo-Regular.ttf") format("woff");
   }
   @font-face {
     font-family: "Menlo";
     font-style: normal;
     font-weight: bold;
-    src: url("../fonts/Menlo-Bold.woff") format("woff");
+    src: url("../fonts/Menlo-Bold.ttf") format("woff");
   }
   @font-face {
     font-family: "Menlo";
     font-style: italic;
     font-weight: normal;
-    src: url("../fonts/Menlo-Italic.woff") format("woff");
+    src: url("../fonts/Menlo-Italic.ttf") format("woff");
   }
   @font-face {
     font-family: "Menlo";
     font-style: italic;
     font-weight: bold;
-    src: url("../fonts/Menlo-BoldItalic.woff") format("woff");
+    src: url("../fonts/Menlo-Bold-Italic.ttf") format("woff");
   }
   
   ::-webkit-scrollbar {
